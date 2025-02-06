@@ -1,0 +1,8 @@
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/Main.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/model/Song.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/repository/PgVectorRepository.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/repository/SongRepository.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/service/AiService.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/service/MusicAdvisor.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/util/CSVLoader.java
+/Users/amin/IdeaProjects/MusicAdvisor/src/main/java/util/VectorUtils.java

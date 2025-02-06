@@ -1,0 +1,8 @@
+model/Song.class
+service/MusicAdvisor.class
+util/CSVLoader.class
+repository/SongRepository.class
+service/AiService.class
+util/VectorUtils.class
+repository/PgVectorRepository.class
+main/Main.class
