@@ -11,7 +11,7 @@ import java.time.Duration;
 
 public class AiService {
     private static final String API_URL = "https://openrouter.ai/api/v1/chat/completions";
-    private static final String API_KEY = "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";  // Replace with your key
+    private static final String API_KEY = System.getenv("OPENROUTER_API_KEY") != null ? System.getenv("OPENROUTER_API_KEY") : "";  // Replace with your key
     private static final String REFERER = "<YOUR_SITE_URL>";       // Optional: Your site URL
     private static final String TITLE = "<YOUR_SITE_NAME>";        // Optional: Your site title
 
